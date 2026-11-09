@@ -6,7 +6,7 @@ The **Kotlin Recipe Organizer** is a dual-interface (Console CLI and built-in We
 
 My purpose in writing this software was to gain hands-on experience with core Kotlin language constructs—including `val` and `var` variables, `when` expressions, loops, modular functions with default and named parameters, classes, data classes (`copy()`), and mutable/immutable collections (`mutableListOf`, `mutableMapOf`, `filter`, `map`, `any`, `count`).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/enRZ66SA1Ek)
 
 # Development Environment
 
